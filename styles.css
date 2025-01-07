@@ -17,3 +17,12 @@ th,td{
 	margin-left : auto;
 	margin-right : auto;
 }
+
+
+.center{
+	text-align : center;
+}
+
+.right{
+	text-align : right;
+}
